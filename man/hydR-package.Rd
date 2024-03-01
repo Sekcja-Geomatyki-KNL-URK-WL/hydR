@@ -4,14 +4,10 @@
 \name{hydR-package}
 \alias{hydR}
 \alias{hydR-package}
-\title{hydR: What the Package Does (One Line, Title Case)}
+\title{hydR: Package for creating hydrological network inside forest}
 \description{
 \if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
 
 What the package does (one paragraph).
-}
-\author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
-
 }
 \keyword{internal}
