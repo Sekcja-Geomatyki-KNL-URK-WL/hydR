@@ -1,5 +1,5 @@
 
-# hydR
+# hydR <img src="man/figures/logo.png" align="right" height="200" alt="" />
 
 <!-- badges: start -->
 <!-- badges: end -->
