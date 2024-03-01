@@ -2,7 +2,7 @@ Package: hydR
 Title: Package for creating hydrological network inside forest
 Version: 0.0.1
 Authors@R: 
-    person("Jakub", "Miszczyszyn", , "jakub.miszczyszyn@urk.edu.pl", role = c("aut", "cre"),
+    person("Jakub", "Miszczyszyn", , "jakub.miszczyszyn@urk.edu.pl", role = c("aut", "cre","ctb"),
            comment = c(ORCID = "0009-0002-8592-946X"))
     person("Paweł", "Hawryło",,"pawel.hawrylo@urk.edu.pl", role=c("aut"))
     person("Natalia, "Rębisz,,,role=c("aut"))
