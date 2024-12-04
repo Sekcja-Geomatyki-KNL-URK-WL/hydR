@@ -1,2 +1,0 @@
-Test funkcji
-super dzień
